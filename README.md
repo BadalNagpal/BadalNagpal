@@ -6,7 +6,7 @@
 🧠​ Computer Science Student from New Delhi, India. Efficient with backend development of Software Products</br>
 💻​ Developed MERN Stack based Web Applications, worked with ML Based Projects as well as Discord Bots</br>
 💭 Exploring DevOps with a focus on Microsoft Azure.</br>
-🗃️ Languages: C++, SQL, Python, JavaScript. Databases I have worked with include: MongoDB, MySQL</br>
+🗃️ Languages: C++, SQL, Python, JavaScript. Databases: MongoDB, MySQL</br>
 🤝 Looking for FreeLance Opportunities with Backend Development</br>
 
 

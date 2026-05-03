@@ -3,10 +3,11 @@
 ### 🔭 A developer who thinks like a philosopher, competes like an athlete, and analyzes like a psychologist</br>
 
 
-🧠​ Computer Science Student from New Delhi, India. Efficient with backend development of Software Products</br>
-💻​ Developed MERN Stack based Web Applications, worked with ML Based Projects as well as Discord Bots</br>
-💭 Exploring DevOps with a focus on Microsoft Azure.</br>
-🗃️ Languages: C++, SQL, Python, JavaScript. Databases: MongoDB, MySQL</br>
+🧠​ Developer from New Delhi, India. Efficient with backend development of Software Products</br>
+💻​ Developed ML Based Projects, as well as worked with MERN Stack based Web Applications and Discord Bots</br>
+💻​ Currently working in a FinTech product based environment enhancing the existing product with new ideas</br>
+💭 DevOps with a focus on Microsoft Azure, Docker, Kubernetus</br>
+🗃️ Languages: C++, SQL, Python, JavaScript, FastAPI. Databases: MongoDB, MySQL, OracleDB, PostgresDB</br>
 🤝 Looking for FreeLance Opportunities with Backend Development</br>
 
 

@@ -6,9 +6,9 @@
 🧠​ Developer from New Delhi, India. Efficient with backend development of Software Products</br>
 💻​ Developed ML Based Projects, as well as worked with MERN Stack based Web Applications and Discord Bots</br>
 💻​ Currently working in a FinTech product based environment enhancing the existing product with new ideas</br>
-💭 DevOps with a focus on Microsoft Azure, Docker, Kubernetus</br>
+💭 DevOps with a focus on Microsoft Azure, Docker and Kubernetus implementations</br>
 🗃️ Languages: C++, SQL, Python, JavaScript, FastAPI. Databases: MongoDB, MySQL, OracleDB, PostgresDB</br>
-🤝 Looking for FreeLance Opportunities with Backend Development</br>
+🤝 Currently dwelling more into Advanced AI implementations and concepts</br>
 
 
 

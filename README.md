@@ -1,6 +1,6 @@
 ## Hi, I'm Badal ☁️
 
-### 🔭 A developer who thinks like a philosopher, competes like an athlete, and analyzes like a psychologist</br>
+### 🔭 A developer who's a random mxi of a philosopher, an athlete and a psychologist</br>
 
 
 🧠​ Developer from New Delhi, India. Efficient with backend development of Software Products</br>
